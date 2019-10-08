@@ -14,7 +14,12 @@ function App() {
   }, []);
   return (
     <main>
+<<<<<<< HEAD
       <h1>Denvinn Was Here</h1>
+=======
+      <h1>Create React App + Go API</h1>
+      <h2>Breakout 12</h2>
+>>>>>>> 2fd144883c97dfaabd3a50e1066b9de0e40f6c44
       <h2>
         Deployed with{' '}
         <a
